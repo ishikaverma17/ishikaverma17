@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **ishikaverma2317@gmail.com**
-- "Here is my Resume" <a href="file:///C:/Users/Verma/Downloads/IshikaVerma.pdf" rel="nofollow"> link </a>
+- Here is my Resume <a href="https://drive.google.com/drive/home" rel="nofollow"> link </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
