@@ -21,7 +21,6 @@ Dev Tools: npm, Git, GitHub, Postman
 💬 ask me about anything, i am happy to help
 
 ⚡ Fun Fact: Imagination is more important than knowledge
-- Here is my Resume <a href="[https://drive.google.com/file/d/1OyfijgNCpafRF8SUEgxK_9DWhxcUscD9/view?usp=sharing](https://drive.google.com/file/d/1R-Nn709GRI_023Yr0JJtVApAPOdeXyaT/view?usp=sharing)" rel="nofollow"> link </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
